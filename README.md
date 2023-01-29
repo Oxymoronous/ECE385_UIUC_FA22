@@ -7,4 +7,4 @@ As we get into later labs, a mixture of software and hardware begin to take plac
 
 These files (or perhaps even this directory in general) are mainly for my personal record, and probably may only make sense to students who have taken this class.
 
-Lab reports is the least fun part of this course, despite being an enormous time sink, I somehow enjoyed and hated the process but I wrote all of them with decently good standard and I take pride in them, so yes, they are all here too.
+Lab reports is the least fun part of this course - they were painful time sinks. But since I wrote all of them with decently good standard and I take pride in them, so yes, they are all here too.
